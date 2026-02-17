@@ -38,25 +38,18 @@ I'm not currently working on anything new at the moment. Please check back here 
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
-#### Programming Langauges
+#### Programming & Automation
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Python%20BI-Advanced-F2C811?style=flat&logo=python&logoColor=black" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Advanced-F2C811?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/C++-Beginner-217346?style=flat&logo=c++&logoColor=white" alt="C++ Skill Badge">
   <img src="https://img.shields.io/badge/CSS-Beginner-E97627?style=flat&logo=css&logoColor=white" alt="CSS Skill Badge">
 </p>
 
-#### Programming & Automation
+#### Machine Learning Tooling
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/TensorFlow-Intermediate-FF6B6B?style=flat" alt="TensorFlow Skill Badge">
+  <img src="https://img.shields.io/badge/NumPy-Intermediate-4ECDC4?style=flat" alt="Numpy Skill Badge">
+  <img src="https://img.shields.io/badge/Xarray-Intermediate-45B7D1?style=flat" alt="Xarray Skill Badge">
+  <img src="https://img.shields.io/badge/Git-Intermediate-96CEB4?style=flat" alt="Git Skill Badge">
 </p>
