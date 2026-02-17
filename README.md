@@ -38,13 +38,13 @@ I'm not currently working on anything new at the moment. Please check back here 
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
-#### Data Analysis & Visualization
+#### Programming Langauges
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Python%20BI-Advanced-F2C811?style=flat&logo=python&logoColor=black" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/C++-Beginner-217346?style=flat&logo=c++&logoColor=white" alt="C++ Skill Badge">
+  <img src="https://img.shields.io/badge/CSS-Beginner-E97627?style=flat&logo=css&logoColor=white" alt="CSS Skill Badge">
 </p>
 
 #### Programming & Automation
