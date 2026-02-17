@@ -32,8 +32,7 @@ I'm not currently working on anything new at the moment. Please check back here 
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- AWS Cloud Practioner Certification
 
 ## 🛠️ Technical Skillset
 
