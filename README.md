@@ -24,11 +24,11 @@ When I'm not working with data, I enjoy reading and baking new and interesting d
       
 ## 🔭 What I'm Currently Working On 
 
-I'm currently working on my website to showcase my projects! Please check back later for final results. 
-<!--
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.] -->
+I'm currently working on my portfolio website to showcase my relevant projects! Please check back later for final results. 
+
+- **Project - HotDust:** Analyzes infrared data from the VIIRS satellite instrument and trains a neural network to quantify the dust in the atmosphere.
+  
+- **Project - Cars4U :** A mock online car buying platform. 
 
 ## 🌱 Currently Learning 
 
