@@ -24,7 +24,7 @@ When I'm not working with data, I enjoy reading and baking new and interesting d
       
 ## 🔭 What I'm Currently Working On 
 
-I'm not currently working on anything new at the moment. Please check back here later! 
+I'm currently working on my website to showcase my projects! Please check back later for final results. 
 <!--
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
