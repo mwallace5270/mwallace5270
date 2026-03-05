@@ -24,11 +24,10 @@ When I'm not working with data, I enjoy reading and baking new and interesting d
       
 ## 🔭 What I'm Currently Working On 
 
-I'm currently working on my portfolio website to showcase my relevant projects! Please check back later for final results. To see the scripts please scoll down to my 'Pinned'.
-
-- **Project - HotDust:** Analyzes infrared data from the VIIRS satellite instrument and trains a neural network to quantify the dust in the atmosphere.
+- **My Portfolio:** Coming Soon! I'm currently working on my portfolio website to showcase my relevant projects! Please check back later for final results. To see the scripts please scoll down to my 'Pinned'.
+- **HotDust:** Analyzes infrared data from the VIIRS satellite instrument and trains a neural network to quantify the dust in the atmosphere.
   
-- **Project - Cars4U :** A mock online car buying platform. 
+- **Cars4U :** A multi‑page car buying website using MAMP, HTML, CSS, and JavaScript, that I made for my Database Design class.
 
 ## 🌱 Currently Learning 
 
