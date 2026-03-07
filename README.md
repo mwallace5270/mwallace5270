@@ -20,7 +20,7 @@ I'm a recent Computer Science graduate with hands-on experience in Python automa
 When I'm not working with data, I enjoy reading and baking new and interesting desserts. I love the "aha!" moment when I think of something new to make.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-<!-- ### [🏆 Check Out My Full Portfolio Website](https://mwallace5270.github.io/) -->
+### [🏆 Check Out My Full Portfolio Website](https://mwallace5270.github.io/) 
       
 ## 🔭 What I'm Currently Working On 
 
