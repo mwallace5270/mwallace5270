@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=445&lines=Computer+Scientist+%7C+Machine+Learning;Data+Pipelines+%7C+AI+Research" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+<!-- 🔗 Social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/micah-wallace-bab167163/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:micahwallace00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
@@ -30,11 +30,11 @@ When I'm not working with data, I enjoy reading and baking new and interesting d
 
 ## 🌱 Currently Learning 
 
-- AWS Cloud Practioner Certification
+- IBM Data Science Professional Certificate
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+<!-- Shields.io badges!-->
 
 #### Programming & Automation
 <p>
