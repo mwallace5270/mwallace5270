@@ -24,7 +24,7 @@ When I'm not working with data, I enjoy reading and baking new and interesting d
       
 ## 🔭 What I'm Currently Working On 
 
-- **Dust Visualization:** Analyzes infrared data from the VIIRS satellite instrument and trains a neural network to quantify the dust in the atmosphere. The model was trained on simulated data generated with libRadtran and developed in Python with NumPy, Xarray, and Matplotlib for processing and data visualization. 
+- **Dust Visualization (hot-dust):** Analyzes infrared data from the VIIRS satellite instrument and trains a neural network to quantify the dust in the atmosphere. The model was trained on simulated data generated with libRadtran and developed in Python with NumPy, Xarray, and Matplotlib for processing and data visualization. 
   
 - **Cars4U :** A multi‑page car buying website using MAMP, HTML, CSS, and JavaScript, that I made for my Database Design class.
 
