@@ -15,7 +15,7 @@
 ## 🚀 About Me 
 I'm a recent Computer Science graduate with hands-on experience in Python automation, machine learning research, and large-scale data processing, who is seeking a dynamic career opportunity. Strong foundation in secure software practices, cloud-based workflows, and DevOps-aligned research environments.
 
- My experiences as an AI REU Intern for TrAC, allowed me to test machine-learning processes, look for performance issues and document problems to be corrected. While as an Ocean Ecology Fellow at NASA Goddard, I worked with Python data pipelines, I validated that they were functioning properly, and automated the steps to ensure that the results would be reliable and repeatable. 
+ My experiences as an AI REU Intern for TrAC, allowed me to test machine-learning processes, look for performance issues and document problems to be corrected. While as an Ocean Ecology Fellow at NASA Goddard, I worked with Python data pipelines. I validated that they were functioning properly and automated the steps to ensure that the results would be reliable and repeatable. 
 
 When I'm not working with data, I enjoy reading and baking new and interesting desserts. I love the "aha!" moment when I think of something new to make.
 
